@@ -7,7 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <link rel="shortcut icon" href="img/favicon.png" type="image/x-icon">
 
-  <title>Latam POS - Un increible Software para tu negocio.</title>
+  <title>Latam POS - Ventas sin complicaciones para tu negocio.</title>
 
 <meta name="google-site-verification" content="WnSwWginjO6BzVZZlqM2lBVwwy1wKFSlMHfUlD7oiI4" />
 
