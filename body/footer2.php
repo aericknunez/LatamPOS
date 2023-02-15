@@ -14,7 +14,7 @@
                             <a href="#" class="ti-vimeo-alt"></a>
                             <a href="#" class="ti-pinterest"></a>
                         </div>
-                        <p>Latam POS es un software desarrollado por</p>
+                        <p>LatamPOS es un software desarrollado por</p>
                         <h3 class="f-title f_600 t_color f_size_18">Hibrido - Soluciones tecnológicas</h3>
                     </div>
                 </div>
@@ -43,7 +43,7 @@
         <div class="container">
             <div class="row align-items-center">
                 <div class="col-lg-6 col-sm-7">
-                    <p class="mb-0 f_400">© Latam POS <?php echo date("Y"); ?>.</p>
+                    <p class="mb-0 f_400">© LatamPOS <?php echo date("Y"); ?>.</p>
                 </div>
                 <div class="col-lg-6 col-sm-5 text-right">
                     <p>Made with <i class="icon_heart"></i> in <a href="https://hibridosv.com" target="_blank" >Hibrido</a></p>

@@ -7,7 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <link rel="shortcut icon" href="img/favicon.png" type="image/x-icon">
 
-  <title>Latam POS - Ventas sin complicaciones para tu negocio.</title>
+  <title>LatamPOS - Ventas sin complicaciones para tu negocio.</title>
 
 <meta name="google-site-verification" content="WnSwWginjO6BzVZZlqM2lBVwwy1wKFSlMHfUlD7oiI4" />
 
@@ -15,8 +15,8 @@
 <meta name="description"  content="El mejor sistema de punto de venta para, restaurante, cafeteria, bar, comida rapida, ferreteria, supermercado, farmacia, boutique, zapateria, agroservicio, tiendas de conveniencia y muchos mas..." />
 <meta name="keywords"  content="Sistema para restaurante, El mejor sistema de punto de venta para restaurante, restaurante, cafeteria, bar, comida rapida, Software para restaurante, Software para cafeteria, Software para bar, Software para ferreteria, Software para supermercado, Software para farmacia, Software para boutique, Software para zapateria, Software para agroservicio, Software para tiendas de conveniencia y muchos mas..." />
 <link rel="canonical" href="https://latam-pos.com/" />
-<meta property="og:title" content="Latam POS - Sistema de ventas para su negocio" />
-<meta property="og:title" content="Latam POS - Software de ventas para su negocio" />
+<meta property="og:title" content="LatamPOS - Sistema de ventas para su negocio" />
+<meta property="og:title" content="LatamPOS - Software de ventas para su negocio" />
 <meta property="og:type" content="website" />
 <meta property="og:url" content="https://tatam-pos.com/" />
 <meta property="og:site_name" content="tatam-pos.com" />
