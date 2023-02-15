@@ -57,7 +57,7 @@ switch ($_SESSION["pselect"]) {
     <div class="container">
         <div class="pos_banner_text text-center">
             <h6>Bienvenido a Latam POS</h6>
-            <h2>Un increible Software para tu <span>negocio </span>de <span><?php if($_SESSION["pnombre"]){
+            <h2>Ventas sin complicaciones para tu <span>negocio </span>de <span><?php if($_SESSION["pnombre"]){
                 echo $_SESSION["pnombre"];
             } else {
                 echo "Punto de Venta";
