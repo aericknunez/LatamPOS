@@ -8903,17 +8903,6 @@ Sticky Menu
   position: relative;
 }
 
-.saas_two_main_header .saas_sign_up_btn a:before {
-  left: -5px;
-  top: 4px;
-  color: #fff;
-  font-size: 13px;
-  line-height: 1;
-  content: "";
-  font-weight: 900;
-  position: absolute;
-  font-family: "Font Awesome 5 Free";
-}
 
 .saas_two_main_header .dropdown .dropdown-menu {
   top: 65px;

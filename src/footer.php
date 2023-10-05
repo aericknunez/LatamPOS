@@ -3,16 +3,16 @@
                 <div class="container">
                     <div class="s2-newslatter_content relative-position">
                         <div class="s2-newslatter_title  text-center saas2-headline pera-content">
-                            <h2>Subscribe now!</h2>
-                            <p>Get the latest update.</p>
-                        </div>
-                        <div class="s2-newslatter-form  relative-position">
-                            <form action="#">
-                                <input class="email" name="email" type="email" placeholder="Enter your email address">
-                                <div class="nws-button position-absolute text-capitalize">
-                                    <button class="hover-btn" type="submit" value="Submit"> Subscribe</button>
-                                </div>
-                            </form>
+                            <h2>¡Todas las características!</h2>
+                            <p>Descargue el documento con todas las características que ofrecemos.</p>
+
+                            <!-- <a href="https://latam-pos.com/document.pdf" download="caracteristicas" class="btn btn-success">
+                                Descargar
+                            </a> -->
+                            <a href="downloader.php?data=document.pdf&name=caracteristicas_LatamPOS" download="caracteristicas" class="btn btn-success">
+                                Descargar
+                            </a>
+                            
                         </div>
                     </div>
                     <div class="newsletter_pattern_1"><img src="assets/img/saas-c/banner/nb.png" alt=""></div>

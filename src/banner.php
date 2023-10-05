@@ -10,8 +10,8 @@
                                 </h1>
                                 <p>Diseñado especialmente para hacer su vida mas fácil</p>
                                 <div class="banner_btn">
-                                    <a href="#"><i class="fas fa-cloud-download-alt"></i> Try it free</a>
-                                    <a href="#"><i class="fas fa-clipboard-list"></i> Get a demo</a>
+                                    <!-- <a href="#"><i class="fas fa-cloud-download-alt"></i> Caracteristicas</a> -->
+                                    <a href="https://wa.me/50368275365?text=Quiero%20conocer%20mas%20acerca%20de%20sus%20sistemas"><i class="fab fa-whatsapp"></i> Contactar</a>
                                     <span>Sin contratos *</span>
                                 </div>
                             </div>
