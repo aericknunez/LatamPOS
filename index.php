@@ -77,7 +77,7 @@
         <?php include('src/footer.php'); ?>
 
         <div class="s2-copyright text-center">2023
-	<meta name="keywords" content="	accountant, advertising, advisor, agency, broker, business, clean, consulting, creative, elementor, finance, insurance, marketing, modern, portfolio"> © Hecho con cariño <a href="#">LatamPos</a></div>
+	<meta name="keywords" content="	accountant, advertising, advisor, agency, broker, business, clean, consulting, creative, elementor, finance, insurance, marketing, modern, portfolio"> © Con el respaldo de <a href="#" >Hibrido El Salvador</a></div>
     <!-- End of footer section 
         ============================================= -->
 

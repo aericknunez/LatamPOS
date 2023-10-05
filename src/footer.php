@@ -35,7 +35,7 @@
                                     <div class="footer_about">
                                         Urb La Mascota Cl 2 No 231 Col San Benito. San Salvador <p>El Salvador</p>
                                     </div>
-                                    <span>Open Hours: </span>
+                                    <span>Horario: </span>
                                     <p>Lun - Sab: 8 am - 5 pm</p>
                                     <p>Domingo: CERRADO</p>
                                 </div>
