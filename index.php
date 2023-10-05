@@ -1,111 +1,99 @@
-<?php 
-session_start();
+<!DOCTYPE html>
+<html lang="en">
 
+<?php include('src/head.php'); ?>
 
-if($_SESSION["pselect"] != NULL){
-	if($_SESSION["pselect"] != $_COOKIE["pselect"]){
-		setcookie("pselect", $_SESSION["pselect"], time() + 60*60*24*365); 
-		setcookie("pnombre", $_SESSION["pnombre"], time() + 60*60*24*365); 
-		setcookie("ptype", $_SESSION["ptype"], time() + 60*60*24*365); 
-	}
-}
-
-
-
-	if($_SESSION["pselect"] == NULL){
-	    if($_COOKIE["pselect"] != NULL){
-	      $_SESSION["pselected"] = $_COOKIE["pselect"];
-	      $_SESSION["pnombre"] = $_COOKIE["pnombre"];
-	      $_SESSION["ptype"] = $_COOKIE["ptype"];	      
-	    }
-	}
-
-
-include_once 'body/includes/Clases.php';
-$_SESSION["lasturl"] = Helpers::LastUrl();
-
- Helpers::UnsetVariables();
-
-
-
-include_once 'body/head.php';
-?>
-
-<body>
-<!-- Google Tag Manager (noscript) -->
-<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NZ7G9WW"
-height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-<!-- End Google Tag Manager (noscript) -->
-<?
-include_once 'body/preloader.php';
-?>
-
-<div class="body_wrapper">
-
-<?php 
-include_once 'body/header2.php';
-
-include_once 'body/bannerHeader.php';
-
-include_once 'body/greatServices.php';
-
-// include_once 'ticketArea.php';
-
-// include_once 'proveedores.php';
-
-if($_SESSION["ptype"] == "R"){
-	include_once 'body/herramientasR.php';
-} else if ($_SESSION["ptype"] == "P"){
-	include_once 'body/herramientasP.php';
-} else {
-	include_once 'body/herramientas.php';
-}
-
-
-include_once 'body/serviciosArea.php';
-
-
-// include_once 'caracteristicas.php';
-
-include_once 'body/carrusel.php';
-
-
-if($_SESSION["ptype"] == "R"){
-	include_once 'body/aboutR.php';
-} else if ($_SESSION["ptype"] == "P"){
-	include_once 'body/aboutP.php';
-} else {
-	include_once 'body/about.php';
-}
-
-// include_once 'pasos.php';
-
-include_once 'body/power.php';
-
-// include_once 'preciosLife.php';
-// include_once 'preciosCaracteristicas.php';
-include_once 'body/preciosRenta.php';
-// include_once 'preguntas.php';
-include_once 'body/unPrecio.php'; // para dicer que puede ver los precios en un solo pago y ver la caracteristicas
-
-include_once 'body/ready.php';
-
-include_once 'body/footer2.php';
-
-include_once 'body/searchModal.php';
-
-include_once 'body/productoModal.php';
- ?>
-
-
+<body class="saas-classic" data-spy="scroll" data-target=".s2-main-navigation" data-offset="80">
+    <!-- preloader - start -->
+    <div id="preloader" class="saas-classic-preloader"></div>
+    <div class="up">
+        <a href="#" id="scrollup" class="saas-classic-scrollup text-center"><i class="fas fa-angle-up"></i></a>
     </div>
+    <!-- Start of header section
+        ============================================= -->
+        <?php include('src/header.php'); ?>
+
+    <!-- End of header section
+        ============================================= -->
+
+    <!-- Start of Banner section    
+        ============================================= -->
+        <?php include('src/banner.php'); ?>
+
+    <!-- End of Banner section
+        ============================================= -->
+
+    <!-- Start of service  section    
+        ============================================= -->
+        <?php include('src/service.php'); ?>
+
+    <!-- End of service section    
+        ============================================= -->
+
+    <!-- Start of about section    
+        ============================================= -->
+        <?php include('src/about.php'); ?>
+
+    <!-- End of About  section    
+        ============================================= -->
+
+    <!-- Start of feature section   
+        ============================================= -->
+        <?php // include('src/feature.php'); ?>
+
+    <!-- End of feature section   
+        ============================================= -->
+
+    <!-- Start of integration section   
+        ============================================= -->
+        <?php // include('src/integration.php'); ?>
+
+    <!-- End of integration section   
+        ============================================= -->
+
+    <!-- Start of member section   
+        ============================================= -->
+        <?php // include('src/members.php'); ?>
+        
+    <!-- End  of member section   
+        ============================================= -->
+
+    <!-- Start of faq section  
+        ============================================= -->
+        <?php include('src/faq.php'); ?>
+
+    <!-- End of faq section   
+        ============================================= -->
+
+    <!-- Start of pricing section  
+        ============================================= -->
+        <?php include('src/pricing.php'); ?>
+
+    <!-- End of pricing section   
+        ============================================= -->    
+
+    <!-- Start of footer section
+        ============================================= -->
+        <?php include('src/footer.php'); ?>
+
+        <div class="s2-copyright text-center">2023
+	<meta name="keywords" content="	accountant, advertising, advisor, agency, broker, business, clean, consulting, creative, elementor, finance, insurance, marketing, modern, portfolio"> © Hecho con cariño <a href="#">LatamPos</a></div>
+    <!-- End of footer section 
+        ============================================= -->
+
+        <!-- JS library -->
+        <script src="assets/js/jquery.js"></script>
+        <script src="assets/js/popper.min.js"></script>
+        <script src="assets/js/bootstrap.min.js"></script>
+        <script src="assets/js/owl.js"></script>
+        <script src="assets/js/aos.js"></script>
+        <script src="assets/js/slick.js"></script>
+        <script src="assets/js/wow.min.js"></script>
+        <script src="assets/js/pagenav.js"></script>
+        <script src="assets/js/jquery.barfiller.js"></script>
+        <script src="assets/js/parallax-scroll.js"></script>
+        <script src="assets/js/jquery.mCustomScrollbar.concat.min.js"></script>
+        <script src="assets/js/script.js"></script>
+    </body>
     
-<?php 
-include_once 'body/query.php';
-include_once 'body/queryMain.php';
-
- ?>
-
-
-</body>
 </html>
