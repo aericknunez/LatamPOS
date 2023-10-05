@@ -1,10 +1,10 @@
 <?php
-$info = new SplFileInfo($_REQUEST["data"]);
+$info = new SplFileInfo("document.pdf");
 $ext = $info->getExtension();
 
-$nombre =  $_REQUEST["name"] . ".". $ext;
+$nombre =  "caracteristica_LatamPOS" . ".". $ext;
 
-$filename = $_REQUEST["data"]; 
+$filename = "document.pdf"; 
 $size = filesize($filename); 
 header("Content-Transfer-Encoding: binary"); 
 header("Content-type: application/force-download"); 

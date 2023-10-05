@@ -9,7 +9,7 @@
                             <!-- <a href="https://latam-pos.com/document.pdf" download="caracteristicas" class="btn btn-success">
                                 Descargar
                             </a> -->
-                            <a href="downloader.php?data=document.pdf&name=caracteristicas_LatamPOS" download="caracteristicas" class="btn btn-success">
+                            <a href="downloader" download="caracteristicas" class="btn btn-success">
                                 Descargar
                             </a>
                             
@@ -28,17 +28,16 @@
                         <div class="col-lg-4 col-md-12">
                             <div class="s2_footer_widget clearfix ul-li-block  saas2-headline">
                                 <div class="s2_footer_about">
-                                    <div class="s2-footer_logo">
-                                        <img src="assets/img/saas-c/logo/latam-pos-sm.png" alt="">
-                                    </div>
+                                <h3 class="s2_widget_title">
+                                        <span>LatamPOS</span>
+                                        <i></i>
+                                    </h3>
                                     <div class="footer_about">
-                                        30 Commercial Road Fratton 
-                                        PORTSMOUTH Hampshire PO1 1AA 
-                                        UNITED KINGDOM
+                                        Urb La Mascota Cl 2 No 231 Col San Benito. San Salvador <p>El Salvador</p>
                                     </div>
                                     <span>Open Hours: </span>
-                                    <p>Mon - Sat: 8 am - 5 pm,
-                                    Sunday: CLOSED</p>
+                                    <p>Lun - Sab: 8 am - 5 pm</p>
+                                    <p>Domingo: CERRADO</p>
                                 </div>
                             </div>
                         </div>
@@ -50,16 +49,10 @@
                                         <i></i>
                                     </h3>
                                     <ul>
-                                        <li><a href="#"> Home</a></li>
-                                        <li><a href="#"> Team</a></li>
-                                        <li><a href="#"> FAQ</a></li>
-                                        <li><a href="#"> Services</a></li>
-                                        <li><a href="#"> Gallery</a></li>
-                                        <li><a href="#"> About us</a></li>
-                                        <li><a href="#"> Contact</a></li>
-                                        <li><a href="#"> Testimonials</a></li>
-                                        <li><a href="#"> News</a></li>
-                                        <li><a href="#"> Portfolio</a></li>
+                                    <li><a href="#">Inicio</a></li>
+                                    <li><a href="#saas_two_service">Caracteristicas</a></li>
+                                    <li><a href="#s2-faq">Preguntas</a></li>
+                                    <li><a href="#s2-pricing">Precios</a></li>
                                     </ul>
                                 </div>
                             </div>
@@ -68,18 +61,14 @@
                             <div class="s2_footer_widget clearfix ul-li-block saas2-headline">
                                 <div class="s2_footer_social">
                                     <h3 class="s2_widget_title">
-                                        <span>Newsletter</span> 
+                                        <span>Contacto</span> 
                                         <i></i>
                                     </h3>
-                                    <p>Send us a newsletter to get update</p>
-                                    <form action="#">
-                                        <input  name="email" type="email" placeholder="Enter your email address">
-                                        <button  type="submit" value="Submit"> <i class="fas fa-paper-plane"></i></button>
-                                    </form>
-                                    <a href="#"><i class="fb-bg fab fa-facebook-f "></i></a>
-                                    <a href="#"><i class="bh-bg fab fa-behance"></i></a>
-                                    <a href="#"><i class="tw-bg fab fa-twitter"></i></a>
-                                    <a href="#"><i class="dr-bg fab fa-dribbble"></i></a>
+                                    <p class="mb-3"><strong>Teléfono: </strong> +(503) 6827-5365</p> 
+                                    <a href="https://www.facebook.com/latampos"><i class="fb-bg fab fa-facebook-f "></i></a>
+                                    <a href="https://www.instagram.com/latampos/"><i class="dr-bg fab fa-instagram"></i></a>
+                                    <!-- <a href="#"><i class="tw-bg fab fa-twitter"></i></a> -->
+                                    <a href="https://www.youtube.com/latampos"><i class="dr-bg fab fa-youtube"></i></a>
                                 </div>
                             </div>
                         </div>

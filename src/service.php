@@ -20,7 +20,7 @@
                                 </div>
                                 <div class="service_text_box saas2-headline pera-content">
                                     <h3>Ahorre tiempo</h3>
-                                    <p>Basta con registrarse e iniciar sesión, agregar productos y ya estará vendiendo, es muy fácil y rápido.</p>
+                                    <p>Basta con registrarse, iniciar sesión, agregar productos y ya estará vendiendo. Es muy fácil y rápido</p>
                                 </div>
                             </div>
                         </div>
@@ -37,7 +37,7 @@
                                 </div>
                                 <div class="service_text_box saas2-headline pera-content">
                                     <h3>Fácil de usar</h3>
-                                    <p>Con una interfáz intuitiva y muy simple, vender y facturar productos es una tarea muy sencilla y eficiente</p>
+                                    <p>Con una interfaz intuitiva y muy simple, vender y facturar productos es una tarea muy sencilla y eficiente</p>
                                 </div>
                             </div>
                         </div>
@@ -103,7 +103,7 @@
                                     </div>
                                     <div class="service_text_box saas2-headline pera-content">
                                         <h3>Seguridad</h3>
-                                        <p>Jamás se debe preocupar por la pérdida de sus datos, nosotros se los mantenemos seguros en la nube.</p>
+                                        <p>Jamás debe preocuparse por la pérdida de sus datos, nosotros los mantenemos seguros en la nube.</p>
                                     </div>
                                 </div>
                             </div>

@@ -133,7 +133,7 @@
                                 <ul>
                                     <li>
                                         <div class="s2-pricing_list_icon s2-checked float-left text-center"></div>
-                                        Todas las opcines estandar
+                                        Todas las opciones estándar
                                     </li>
                                     <li>
                                         <div class="s2-pricing_list_icon s2-checked  float-left text-center"></div>
@@ -153,7 +153,7 @@
                                     </li>
                                     <li>
                                         <div class="s2-pricing_list_icon s2-checked float-left text-center"></div>
-                                        Manejo de de propinas
+                                        Manejo de propinas
                                     </li>
                                     <li>
                                         <div class="s2-pricing_list_icon s2-checked float-left text-center"></div>

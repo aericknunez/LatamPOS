@@ -5,7 +5,7 @@
                         Preguntas frecuentes
                     </span>
                     <h2>
-                        Aqui tenemos algunas respuestas
+                    Aquí tenemos algunas respuestas
                     </h2>
                 </div>
                 <!-- /section title -->
@@ -21,7 +21,7 @@
                                     </div>
                                     <div id="collapseOne" class="collapse show" data-parent="#accordionExample">
                                         <div class="s2_faq-body">
-                                        Puede adquirirlo desde nuestra plataforma web pagando con tarjeta de crédito o puede comunicarse con nosotros por cualquiera de los medio de comunicación para guiarle en el proceso
+                                        Puede adquirirlo desde nuestra plataforma web pagando con tarjeta de crédito o puede comunicarse con nosotros por cualquiera de los medios de comunicación para guiarle en el proceso
                                         </div>
                                     </div>
                                 </div>

@@ -12,11 +12,9 @@
                                 <nav class="s2-main-navigation  clearfix ul-li">
                                     <ul id="main-nav" class="navbar-nav text-capitalize clearfix">
                                         <li><a class="nav-link" href="#saas_two_banner">Inicio</a></li>
-                                        <li><a class="nav-link" href="#saas_two_service">Service</a></li>
-                                        <li><a class="nav-link" href="#saas_two_about">About</a></li>
-                                        <li><a class="nav-link" href="#saas_two_feature">Features</a></li>
-                                        <li><a class="nav-link" href="#saas_two_team">Team</a> </li>
-                                        <li><a class="nav-link" href="#s2-pricing">Pricing</a></li>
+                                        <li><a class="nav-link" href="#saas_two_service">Caracteristicas</a></li>
+                                        <li><a class="nav-link" href="#s2-faq">Preguntas</a></li>
+                                        <li><a class="nav-link" href="#s2-pricing">Precios</a></li>
                                     </ul>
                                 </nav>
                                 <div class="saas_sign_up_btn text-center">
@@ -43,11 +41,9 @@
                             <nav class="s2-mobile-main-navigation  clearfix ul-li">
                                <ul id="m-main-nav" class="navbar-nav text-capitalize clearfix">
                                 <li><a href="#">Inicio</a></li>
-                                <li><a href="#saas_two_service">Service</a></li>
-                                <li><a href="#saas_two_about">About</a></li>
-                                <li><a href="#saas_two_feature">Features</a></li>
-                                <li><a href="#saas_two_team">Team</a> </li>
-                                <li><a href="#s2-pricing">Pricing</a></li>
+                                <li><a href="#saas_two_service">Caracteristicas</a></li>
+                                <li><a href="#s2-faq">Preguntas</a></li>
+                                <li><a href="#s2-pricing">Precios</a></li>
                             </ul>
                         </nav>
                     </div>
