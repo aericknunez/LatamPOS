@@ -4,7 +4,7 @@
                     <div class="row">
                         <div class="col-md-2">
                             <div class="brand_logo">
-                                <a><img src="assets/img/saas-c/logo/latam-pos-sm.png" alt=""></a>
+                                <a href="#"><img src="assets/img/saas-c/logo/latam-pos-sm.png" alt=""></a>
                             </div>
                         </div>
                         <div class="col-md-10">
