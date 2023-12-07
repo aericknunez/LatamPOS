@@ -19,7 +19,7 @@
                                             01. ¿Donde puedo adquirirlo?
                                         </button>
                                     </div>
-                                    <div id="collapseOne" class="collapse show" data-parent="#accordionExample">
+                                    <div id="collapseOne" class="collapse" data-parent="#accordionExample">
                                         <div class="s2_faq-body">
                                         Puede adquirirlo desde nuestra plataforma web pagando con tarjeta de crédito o puede comunicarse con nosotros por cualquiera de los medios de comunicación para guiarle en el proceso
                                         </div>
